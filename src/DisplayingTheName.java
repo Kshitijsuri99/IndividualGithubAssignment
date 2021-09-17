@@ -12,6 +12,8 @@ public class DisplayingTheName {
 		
 		//New Feature Added that prints the name in upper case
 		System.out.println("Name in uppercase: " + name.toUpperCase());
+		
+		//Date: September 16th
 	}
 
 }
